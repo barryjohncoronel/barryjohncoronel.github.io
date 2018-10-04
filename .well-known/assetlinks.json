@@ -1,1 +1,9 @@
-.well-known/assetlinks.json
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.practice.deepshit_app",
+    "sha256_cert_fingerprints":
+    ["59:BE:D8:32:8F:97:B2:64:9E:29:B6:67:48:70:60:5B:8B:06:B5:96:B1:D5:58:AB:80:33:C1:65:DA:EC:52:76"]
+  }
+}]
